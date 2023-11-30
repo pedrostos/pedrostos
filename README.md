@@ -1,7 +1,7 @@
 Wassup everybody!! 👋
 
 
-- 🔭 Full Stack Developer
+- 🔭 Back-End Developer
 - 🌱 Studying Java
 
 <br>
