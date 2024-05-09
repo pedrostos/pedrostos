@@ -1,7 +1,7 @@
 Wassup everybody!! 👋
 
 
-- 🔭 Back-End Developer
+- 🔭 Software Developer
 - 🌱 Studying Java
 
 <br>
