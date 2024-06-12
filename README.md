@@ -1,8 +1,8 @@
 Wassup everybody!! 👋
 
 
-- 🔭 Software Developer
-- 🌱 Studying Java
+- Software Developer
+- Studying Java and Golang
 
 <br>
 
