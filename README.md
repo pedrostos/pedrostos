@@ -24,5 +24,5 @@ Wassup everybody!! 👋
   <img align="center" alt="Pedro-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain-wordmark.svg">
 </div><br><br>
   
-  <a href="https://www.linkedin.com/in/PedroStos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedrostos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:pedrosantosvz@outlook.com"><img src="https://img.shields.io/badge/-Email-%230077B5?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
