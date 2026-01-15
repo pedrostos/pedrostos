@@ -3,16 +3,11 @@ Wassup everybody!! 👋
 
 - Software Developer
 
-<br>
-
-<div style="display: flex">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrostos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrostos&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
+<br>  
   
 <div style="display: inline_block">
   <h2> Languages and Tools</h2>
+  <img align="center" alt="Pedro-NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
   <img align="center" alt="Pedro-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Pedro-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Pedro-SQLServer" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
